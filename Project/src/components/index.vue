@@ -1,5 +1,7 @@
 <template>
-    <div>这是index</div>
+    <div>这是index
+    <router-link to="helloworld">跳转到helloworld</router-link>
+    </div>
 </template>
 
 <script>
